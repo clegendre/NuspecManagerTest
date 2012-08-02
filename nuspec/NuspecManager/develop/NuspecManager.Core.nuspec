@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>{0}</id>
+    <version>XXXX</version>
+    <authors>Invenietis</authors>
+    <owners>Invenietis</owners>
+    <licenseUrl>http://civikey.codeplex.com/license</licenseUrl>
+    <projectUrl>http://civikey.codeplex.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>XXXX</description>
+    <language>en-US</language>
+  </metadata>
+</package>
